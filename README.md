@@ -1,5 +1,9 @@
 # Configuration As Code voor Organisaties(Teams)
 
+A complete description in english can be found here:  
+[Ansible Guru](https://www.ansible-guru.nl).  
+De volledige beschrijving is te vinden op bovenstaande url. 
+
 Om gebruik te maken van de mogelijkheid om Ansible Automation Controller via  
 code te configureren, is het volgende noodzakelijk:  
 
